@@ -12,6 +12,8 @@ __Data-to-Text Generation with Entity Modeling__. ACL 2019. __Ratish Puduppully,
 
 __Data-to-Text Generation with Content Selection and Planning__. AAAI 2019. __Ratish Puduppully, Li Dong, and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1809.00582v1.pdf)] [[Code](https://github.com/ratishsp/data2text-plan-py)]
 
+__Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate Iso, Yui Uehara, Tatsuya Ishigaki__. [[Paper](https://arxiv.org/pdf/1907.09699.pdf)] [[Code](https://github.com/aistairc/sports-reporter)] [[DataSource](https://github.com/aistairc/rotowire-modified)]
+
 ## Text Generation with External Knowledge
 
 ## General Framework for Text Generation
