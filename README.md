@@ -22,6 +22,6 @@ __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__.
 __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 2018. [[Paper](https://pdfs.semanticscholar.org/79dd/2ee41e4a7de3b3142fea43b8c48d20224ef2.pdf)]
 
 ## DataSet
-__Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[Code](https://github.com/harvardnlp/boxscore-data)]
+__ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[SourceData](https://github.com/harvardnlp/boxscore-data)]
 
-
+__WikiBio: Neural Text Generation from Structured Data with Application to the Biography Domain__. EMNLP 2016. __Rémi Lebret, David Grangier and Michael Auli__. [[Paper](http://arxiv.org/abs/1603.07771)] [[SourceData](https://github.com/DavidGrangier/wikipedia-biography-dataset)]
