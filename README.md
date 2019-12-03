@@ -16,6 +16,7 @@ __Data-to-Text Generation with Content Selection and Planning__. AAAI 2019. __Ra
 
 ## General Framework for Text Generation
 __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__. ACL 2019 demo. [[Paper](https://arxiv.org/pdf/1809.00794.pdf)] [[Code](https://github.com/asyml/texar)]
+
 __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 2018. [[Paper](https://pdfs.semanticscholar.org/79dd/2ee41e4a7de3b3142fea43b8c48d20224ef2.pdf)]
 
 ## DataSet
