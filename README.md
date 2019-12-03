@@ -25,3 +25,7 @@ __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 201
 __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[SourceData](https://github.com/harvardnlp/boxscore-data)]
 
 __WikiBio: Neural Text Generation from Structured Data with Application to the Biography Domain__. EMNLP 2016. __Rémi Lebret, David Grangier and Michael Auli__. [[Paper](http://arxiv.org/abs/1603.07771)] [[SourceData](https://github.com/DavidGrangier/wikipedia-biography-dataset)]
+
+__Weather: Learning Semantic Correspondences with less supervision__. ACL 2009. __Liang, Percy, Michael I. Jordan, and Dan Klein__. [[Paper](https://pdfs.semanticscholar.org/c53e/9da715fb48489939ad832d2db91e022d3ff5.pdf?_ga=2.144448496.477113533.1575267799-892594366.1561096874)] [[Code](https://link.zhihu.com/?target=https%3A//cs.stanford.edu/~pliang/data/weather-data.zip)]
+
+__
