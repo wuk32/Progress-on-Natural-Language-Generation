@@ -26,6 +26,8 @@ __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wisem
 
 __WikiBio: Neural Text Generation from Structured Data with Application to the Biography Domain__. EMNLP 2016. __Rémi Lebret, David Grangier and Michael Auli__. [[Paper](http://arxiv.org/abs/1603.07771)] [[SourceData](https://github.com/DavidGrangier/wikipedia-biography-dataset)]
 
-__Weather: Learning Semantic Correspondences with less supervision__. ACL 2009. __Liang, Percy, Michael I. Jordan, and Dan Klein__. [[Paper](https://pdfs.semanticscholar.org/c53e/9da715fb48489939ad832d2db91e022d3ff5.pdf?_ga=2.144448496.477113533.1575267799-892594366.1561096874)] [[Code](https://link.zhihu.com/?target=https%3A//cs.stanford.edu/~pliang/data/weather-data.zip)]
+__Weather: Learning Semantic Correspondences with less supervision__. ACL 2009. __Liang, Percy, Michael I. Jordan, and Dan Klein__. [[Paper](https://pdfs.semanticscholar.org/c53e/9da715fb48489939ad832d2db91e022d3ff5.pdf?_ga=2.144448496.477113533.1575267799-892594366.1561096874)] [[SourceData](https://link.zhihu.com/?target=https%3A//cs.stanford.edu/~pliang/data/weather-data.zip)]
 
-__
+__SportsCasting: Learning to Sportscast: A test of grounded language acquisition__. ICML 2008. __Chen, David L., and Raymond J. Mooney__. [[Paper](http://machinelearning.org/archive/icml2008/papers/304.pdf)] [[SourceData](https://link.zhihu.com/?target=http%3A//www.cs.utexas.edu/~ml/clamp/sportscasting/data.tar.gz)]
+
+
