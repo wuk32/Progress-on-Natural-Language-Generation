@@ -28,13 +28,14 @@ __Unsupervised Concept-to-Text Generation with Hypergraphs__. NAACL 2012. __Ioan
 
 __Inducing Document Plans for Concept-to-Text Generation__. EMNLP 2013. __Ioannis Konstas and Mirella Lapata__. [[Paper](http://aclweb.org/anthology/D13-1157)]
 
+__An Architecture for Data-to-Text Systems__. WNLG 2007. __Ehud Reiter__. [[Paper](http://dl.acm.org/ft_gateway.cfm?id=1610180&type=pdf)]
+
 __Collective Content Selection for Concept-to-Text Generation__. EMNLP 2005. __Regina Barzilay and Mirella Lapata__. [[Paper](http://aclweb.org/anthology/H05-1042)]
 
 __Statistical Acquisition of Content Selection Rules for Natural Language Generation__. EMNLP 2003. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/W03-1016.pdf)]
 
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
-__An Architecture for Data-to-Text Systems__. WNLG 2007. __Ehud Reiter__. [[Paper](http://dl.acm.org/ft_gateway.cfm?id=1610180&type=pdf)]
 
 ## Probabilistic & Machine Learning based Method for Text Generation
 __A Simple Domain-Independent Probabilistic Approach to Generation__. EMNLP 2010. __Gabor Angeli, Percy Liang, and Dan Klein__. [[Paper](http://aclweb.org/anthology/D10-1049)]
