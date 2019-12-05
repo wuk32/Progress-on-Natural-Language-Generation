@@ -10,6 +10,8 @@ A collection of recent progress on Natural Language Generation, including papers
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
    - [Researchers](#researchers)
+   - [Demo](#demo)
+   
    
 ## Neural Data-to-Text Generation
 __Enhanced Transformer Model for Data-to-Text Generation__. WNGT 2019. __Li Gong, Josep Crego, Jean Senellart__. [[Paper](www.aclweb.org/anthology/D19-56)]
@@ -25,6 +27,10 @@ __Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrach
 __Order-Planning Neural Text Generation From Structured Data__. CoRR 2017. __Lei Sha__. [[Paper](https://arxiv.org/pdf/1709.00155.pdf)] 
 
 ## Traditional Data-to-Text Generation
+__Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data__. EMNLP 2018. __Guanghui Qin, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, Chin-Yew Lin__. [[Paper](https://www.aclweb.org/anthology/D18-1411.pdf)] [[Code](https://github.com/hiaoxui/D2T-Grounding)]
+
+__A Statistical Framework for Product Description Generation__. IJCNLP 2017. __Jinpeng Wang, Yutai Hou__. [[Paper](https://www.aclweb.org/anthology/I17-2032.pdf)]
+
 __Unsupervised Concept-to-Text Generation with Hypergraphs__. NAACL 2012. __Ioannis Konstas and Mirella Lapata__. [[Paper](http://aclweb.org/anthology/N12-1093)]
 
 __Inducing Document Plans for Concept-to-Text Generation__. EMNLP 2013. __Ioannis Konstas and Mirella Lapata__. [[Paper](http://aclweb.org/anthology/D13-1157)]
@@ -69,4 +75,4 @@ __SportsCasting: Learning to Sportscast: A test of grounded language acquisition
 
 ## Researchers
 
-
+## Demo
