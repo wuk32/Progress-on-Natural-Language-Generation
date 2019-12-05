@@ -4,7 +4,7 @@ A collection of recent progress on Natural Language Generation, including papers
 - [Natural Language Generation](#natural-language-generation)
    - [Neural Data-to-Text Generation](#neural-data-to-text-generation)
    - [Traditional Data-to-Text Generation](#traditional-data-to-text-generation)
-   - [Neural Normal Text Generation]
+   - [Neural Normal Text Generation](#neural-normal-text-generation)
    - [Probabilistic & Machine Learning based Method for Normal Text Generation](#probabilistic-machine-learning-based-method-for-text-generation)
    - [Probabilistic Method for Generation](#probabilistic-method-for-generation)
    - [Text Generation for Time-Series Data](#text-generation-for-time-series-data)
