@@ -4,6 +4,8 @@ A collection of recent progress on Natural Language Generation, including papers
 - [Natural Language Generation](#natural-language-generation)
    - [Neural Data-to-Text Generation](#neural-data-to-text-generation)
    - [Traditional Data-to-Text Generation](#traditional-data-to-text-generation)
+   - [Neural Normal Text Generation]
+   - [Probabilistic & Machine Learning based Method for Normal Text Generation](#probabilistic-machine-learning-based-method-for-text-generation)
    - [Probabilistic Method for Generation](#probabilistic-method-for-generation)
    - [Text Generation for Time-Series Data](#text-generation-for-time-series-data)
    - [Text Generation with External Knowledge](#text-generation-with-externel-knowledge)
@@ -24,7 +26,11 @@ __Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate
 
 __Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrachini and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1804.06385.pdf)] [[Code](https://github.com/EdinburghNLP/wikigen)]
 
+__Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __Tianyu Liu, Kexiang Wang, Lei Sha__. [[Paper](https://arxiv.org/pdf/1711.09724.pdf)] [[Code](https://github.com/tyliupku/wiki2bio)]
+
 __Order-Planning Neural Text Generation From Structured Data__. CoRR 2017. __Lei Sha__. [[Paper](https://arxiv.org/pdf/1709.00155.pdf)] 
+
+__What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment__. NAACL 2016. __Hongyuan Mei, Mohit Bansal__. [[Paper](https://arxiv.org/pdf/1509.00838.pdf)]
 
 ## Traditional Data-to-Text Generation
 __Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data__. EMNLP 2018. __Guanghui Qin, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, Chin-Yew Lin__. [[Paper](https://www.aclweb.org/anthology/D18-1411.pdf)] [[Code](https://github.com/hiaoxui/D2T-Grounding)]
@@ -43,13 +49,15 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
+## Neural Normal Text Generation 
 
-## Probabilistic & Machine Learning based Method for Text Generation
+
+## Probabilistic & Machine Learning based Method for Normal Text Generation
 __A Simple Domain-Independent Probabilistic Approach to Generation__. EMNLP 2010. __Gabor Angeli, Percy Liang, and Dan Klein__. [[Paper](http://aclweb.org/anthology/D10-1049)]
 
 __Probabilistic Generation of Weather Forecast Texts__. NAACL 2007. __Anja Belz__. [[Paper](http://aclweb.org/anthology/N07-1021)]
 
-__Natural language generation with tree conditional random fields__. EMNLP 2019. __Wei Lu, Hwee Tou Ng, and Wee Sun Lee__. [[Paper](http://aclweb.org/anthology/D09-1042)]
+__Natural Language Generation with Tree Conditional Random Fields__. EMNLP 2019. __Wei Lu, Hwee Tou Ng, and Wee Sun Lee__. [[Paper](http://aclweb.org/anthology/D09-1042)]
 
 ## Text Generation for Time-Series Data
 __Generating Market Comment Referring to External Resources__. INLG 2018. __Tatsuya Aoki, Akira Miyazawa__. [[Paper](https://www.aclweb.org/anthology/W18-6515)] [[Code](https://github.com/aistairc/market-reporter)]
