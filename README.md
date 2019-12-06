@@ -28,7 +28,7 @@ __Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate
 
 __Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrachini and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1804.06385.pdf)] [[Code](https://github.com/EdinburghNLP/wikigen)]
 
-__NeuralREG: An End-to-End Approach to Referring Expression Generation__. ACL 2018. __Thiago Castro Ferreira,Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/P18-1182.pdf)] [[Code](https://github.com/ThiagoCF05/NeuralREG)]
+
 
 __Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __Tianyu Liu, Kexiang Wang, Lei Sha__. [[Paper](https://arxiv.org/pdf/1711.09724.pdf)] [[Code](https://github.com/tyliupku/wiki2bio)]
 
@@ -54,7 +54,7 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
 ## Neural Normal Text Generation 
-
+__NeuralREG: An End-to-End Approach to Referring Expression Generation__. ACL 2018. __Thiago Castro Ferreira,Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/P18-1182.pdf)] [[Code](https://github.com/ThiagoCF05/NeuralREG)]
 
 ## Probabilistic & Machine Learning based Method for Normal Text Generation
 __A Simple Domain-Independent Probabilistic Approach to Generation__. EMNLP 2010. __Gabor Angeli, Percy Liang, and Dan Klein__. [[Paper](http://aclweb.org/anthology/D10-1049)]
