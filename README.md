@@ -9,6 +9,9 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Probabilistic Method for Generation](#probabilistic-method-for-generation)
    - [Text Generation for Time-Series Data](#text-generation-for-time-series-data)
    - [Text Generation with External Knowledge](#text-generation-with-externel-knowledge)
+   - [Text Generation for Machine Translation](#text-generation-for-machine-translation)
+   - [Text Generation in Computer Vision](#text-generation-in-computer-vision)
+   - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
    - [Researchers](#researchers)
@@ -29,15 +32,19 @@ __Enhanced Transformer Model for Data-to-Text Generation__. WNGT 2019. __Li Gong
 
 __Data-to-Text Generation with Entity Modeling__. ACL 2019. __Ratish Puduppully, Li Dong, and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/P19-1195.pdf)] [[Code](https://github.com/ratishsp/data2text-entity-py)]
 
+__Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables__. AAAI 2019. __Tianyu Liu, Fuli Luo, Qiaolin Xia__. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4653)] 
+
 __Data-to-Text Generation with Content Selection and Planning__. AAAI 2019. __Ratish Puduppully, Li Dong, and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1809.00582v1.pdf)] [[Code](https://github.com/ratishsp/data2text-plan-py)]
 
 __Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate Iso, Yui Uehara, Tatsuya Ishigaki__. [[Paper](https://arxiv.org/pdf/1907.09699.pdf)] [[Code](https://github.com/aistairc/sports-reporter)] [[Data](https://github.com/aistairc/rotowire-modified)]
+
+__Point Precisely: Towards Ensuring the Precision of Data in Generated Texts Using Delayed Copy Mechanism__. COLING 2018. __Liunian Li Xiaojun Wan__. [[Paper](https://www.aclweb.org/anthology/C18-1089.pdf)] 
 
 __Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrachini and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1804.06385.pdf)] [[Code](https://github.com/EdinburghNLP/wikigen)]
 
 __Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __Tianyu Liu, Kexiang Wang, Lei Sha__. [[Paper](https://arxiv.org/pdf/1711.09724.pdf)] [[Code](https://github.com/tyliupku/wiki2bio)]
 
-__Table-to-Text: Describing Table Region with Natural Language__. AAAI 2018. __Junwei Bao, Duyu Tang, Nan Duan__. [[Paper](https://arxiv.org/pdf/1805.11234v1.pdf)] [[Code]()]
+__Table-to-Text: Describing Table Region with Natural Language__. AAAI 2018. __Junwei Bao, Duyu Tang, Nan Duan__. [[Paper](https://arxiv.org/pdf/1805.11234v1.pdf)]
 
 __A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization__. NAACL 2018. __Parag Jain Anirban Laha__. [[Paper](https://arxiv.org/pdf/1804.07790.pdf)] 
 
@@ -46,8 +53,6 @@ __Order-Planning Neural Text Generation From Structured Data__. CoRR 2017. __Lei
 __Learning to generate one-sentence biographies from Wikidata__. ECACL 2017. __Andrew Chisholm, Will Radford__. [[Paper](https://www.aclweb.org/anthology/E17-1060.pdf)] [[Code](https://github.com/andychisholm/mimo)]
 
 __What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment__. NAACL 2016. __Hongyuan Mei, Mohit Bansal__. [[Paper](https://arxiv.org/pdf/1509.00838.pdf)]
-
-
 
 ## Traditional Data-to-Text Generation
 __Probabilistic Verb Selection for Data-to-Text Generation__. ACL 2018. __Dell Zhang, Jiahao Yuan__. [[Paper](https://www.aclweb.org/anthology/Q18-1038.pdf)]
@@ -84,6 +89,9 @@ __Generating Market Comment Referring to External Resources__. INLG 2018. __Tats
 __Learning to Generate Market Comments from Stocks Prices__. ACL 2017. __Soichiro Murakami, Akihiko Watanabe__. [[Paper](https://doi.org/10.18653/v1/P17-1126)]
 
 ## Text Generation with External Knowledge
+
+## Text Generation for Machine Translation
+__
 
 ## General Framework for Text Generation
 __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__. ACL 2019 demo. [[Paper](https://arxiv.org/pdf/1809.00794.pdf)] [[Code](https://github.com/asyml/texar)]
