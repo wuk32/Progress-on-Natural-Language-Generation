@@ -1,5 +1,5 @@
 # Natural Language Generation
-A collection of recent progress on Natural Language Generation, including papers, codes
+A collection of recent progress on Natural Language Generation, including papers, codes, data sources
 
 - [Natural Language Generation](#natural-language-generation)
    - [Neural Data-to-Text Generation](#neural-data-to-text-generation)
@@ -14,6 +14,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
+   - [Evaluation Metrics](#evaluation-metrics)
    - [Researchers](#researchers)
    - [Demo](#demo)
    - [Conferences](#conferences)
@@ -91,15 +92,19 @@ __Learning to Generate Market Comments from Stocks Prices__. ACL 2017. __Soichir
 ## Text Generation with External Knowledge
 
 ## Text Generation for Machine Translation
-__
+
 
 ## General Framework for Text Generation
 __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__. ACL 2019 demo. [[Paper](https://arxiv.org/pdf/1809.00794.pdf)] [[Code](https://github.com/asyml/texar)]
 
 __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 2018. [[Paper](https://pdfs.semanticscholar.org/79dd/2ee41e4a7de3b3142fea43b8c48d20224ef2.pdf)]
 
+__OpenNMT: Open-Source Toolkit for Neural Machine Translation__. __Guillaume Klein, Yoon Kim__. [[Paper](https://arxiv.org/pdf/1701.02810v1.pdf)] [[Code](https://github.com/OpenNMT/OpenNMT)]
+
 ## DataSet
 __WikiInfo2Text:Enhancing Neural Data-To-Text Generation Models with External Background Knowledge__. EMNLP, 2019. __Shuang Chen, Jinpeng Wang__. [[Paper](https://www.aclweb.org/anthology/D19-1299.pdf)] [[Data](https://github.com/hitercs/WikiInfo2Text)] 
+
+__Enriching the WebNLG corpus__. INLG 2018. __Thiago Castro Ferreira, Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/W18-6521.pdf)] [[Code](https://github.com/ThiagoCF05/webnlg)]
 
 __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[Data](https://github.com/harvardnlp/boxscore-data)]
 
@@ -111,9 +116,21 @@ __Weather: Learning Semantic Correspondences with less supervision__. ACL 2009. 
 
 __SportsCasting: Learning to Sportscast: A test of grounded language acquisition__. ICML 2008. __Chen, David L., and Raymond J. Mooney__. [[Paper](http://machinelearning.org/archive/icml2008/papers/304.pdf)] [[Data](https://link.zhihu.com/?target=http%3A//www.cs.utexas.edu/~ml/clamp/sportscasting/data.tar.gz)]
 
+## Evaluation Metrics
+__METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments__. ACL workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization. __Satanjeev Banerjee and Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/W07-0734.pdf)]
+
+__BLEU: a Method for Automatic Evaluation of Machine Translation__. ACL 2002. __Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu__. [[Paper](https://www.aclweb.org/anthology/P02-1040.pdf)]
+
+
 ## Researchers
+__Mirella Lapata__. [[HomePage](http://homepages.inf.ed.ac.uk/mlap/)]
 
 ## Demo
+__Narrative Science__. [[WebSite](https://narrativescience.com)]
+
+__Automated Insights__. [[WebSite](https://automatedinsights.com)]
+
+__Arria-NLG__. [[WebSite](http://www.arria.com)]
 
 ## Conferences
    __ACL__. [WebSite]
