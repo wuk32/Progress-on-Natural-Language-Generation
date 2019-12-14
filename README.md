@@ -20,16 +20,17 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Conferences](#conferences)
    
 ## Neural Data-to-Text Generation
+__Long and Diverse Text Generation with Planning-based Hierarchical Variational Model__. EMNLP 2019. __Zhihong Shao, Minlie Huang, Jiangtao Wen__. [[Paper](https://arxiv.org/pdf/1908.06605v1.pdf)] [[Code](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)]
 
 __Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)__. EMNLP 2019. __Heng Gong, Xiaocheng Feng__. [[Paper](https://www.aclweb.org/anthology/D19-1310.pdf)] [[Code](https://github.com/ernestgong/data2text-three-dimensions)]
 
 __Enhancing Neural Data-To-Text Generation Models with External Background Knowledge__. EMNLP 2019. __Shuang Chen, Jinpeng Wang__. [[Paper](https://www.aclweb.org/anthology/D19-1299.pdf)]
 
-__GTR-LSTM:A Triple Encoder for Sentence Generation from RDF Data__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1151.pdf)]
-
 __Neural data-to-text generation: A comparison between pipeline and end-to-end architectures__. EMNLP 2019. __Thiago Castro Ferreira, Chris van der Lee__. [[Paper](https://www.aclweb.org/anthology/D19-1052.pdf)] [[Code](https://github.com/ThiagoCF05/DeepNLG)]
 
 __Enhanced Transformer Model for Data-to-Text Generation__. WNGT 2019. __Li Gong, Josep Crego, Jean Senellart__. [[Paper](www.aclweb.org/anthology/D19-56)]
+
+__Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate Iso, Yui Uehara, Tatsuya Ishigaki__. [[Paper](https://arxiv.org/pdf/1907.09699.pdf)] [[Code](https://github.com/aistairc/sports-reporter)] [[Data](https://github.com/aistairc/rotowire-modified)]
 
 __Data-to-Text Generation with Entity Modeling__. ACL 2019. __Ratish Puduppully, Li Dong, and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/P19-1195.pdf)] [[Code](https://github.com/ratishsp/data2text-entity-py)]
 
@@ -37,15 +38,19 @@ __Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Gener
 
 __Data-to-Text Generation with Content Selection and Planning__. AAAI 2019. __Ratish Puduppully, Li Dong, and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1809.00582v1.pdf)] [[Code](https://github.com/ratishsp/data2text-plan-py)]
 
-__Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate Iso, Yui Uehara, Tatsuya Ishigaki__. [[Paper](https://arxiv.org/pdf/1907.09699.pdf)] [[Code](https://github.com/aistairc/sports-reporter)] [[Data](https://github.com/aistairc/rotowire-modified)]
+__Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrachini and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1804.06385.pdf)] [[Code](https://github.com/EdinburghNLP/wikigen)]
+
+__Operations Guided Neural Networks for High Fidelity Data-To-Text Generation__. EMNLP 2018. __Feng Nie, Jinpeng Wang__. [[Paper](https://arxiv.org/pdf/1809.02735.pdf)] [[Data](https://github.com/janenie/espn-nba-data)]
+
+__Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation__. NAACL 2019. __Amit Moryossef, Yoav Goldberg, Ido Dagan__. [[Paper](https://www.aclweb.org/anthology/N19-1236.pdf)] [[Code](https://github.com/AmitMY/chimera)]
 
 __Point Precisely: Towards Ensuring the Precision of Data in Generated Texts Using Delayed Copy Mechanism__. COLING 2018. __Liunian Li Xiaojun Wan__. [[Paper](https://www.aclweb.org/anthology/C18-1089.pdf)] 
-
-__Bootstrapping Generators from Noisy Data__. NAACL 2019. __Laura Perez-Beltrachini and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1804.06385.pdf)] [[Code](https://github.com/EdinburghNLP/wikigen)]
 
 __Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __Tianyu Liu, Kexiang Wang, Lei Sha__. [[Paper](https://arxiv.org/pdf/1711.09724.pdf)] [[Code](https://github.com/tyliupku/wiki2bio)]
 
 __Table-to-Text: Describing Table Region with Natural Language__. AAAI 2018. __Junwei Bao, Duyu Tang, Nan Duan__. [[Paper](https://arxiv.org/pdf/1805.11234v1.pdf)]
+
+__GTR-LSTM:A Triple Encoder for Sentence Generation from RDF Data__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1151.pdf)]
 
 __A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization__. NAACL 2018. __Parag Jain Anirban Laha__. [[Paper](https://arxiv.org/pdf/1804.07790.pdf)] 
 
@@ -56,7 +61,6 @@ __Order-Planning Neural Text Generation From Structured Data__. CoRR 2017. __Lei
 __Learning to generate one-sentence biographies from Wikidata__. ECACL 2017. __Andrew Chisholm, Will Radford__. [[Paper](https://www.aclweb.org/anthology/E17-1060.pdf)] [[Code](https://github.com/andychisholm/mimo)]
 
 __What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment__. NAACL 2016. __Hongyuan Mei, Mohit Bansal__. [[Paper](https://arxiv.org/pdf/1509.00838.pdf)]
-
 
  
 ## Traditional Data-to-Text Generation
