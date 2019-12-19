@@ -30,7 +30,7 @@ __Enhancing Neural Data-To-Text Generation Models with External Background Knowl
 
 __Neural data-to-text generation: A comparison between pipeline and end-to-end architectures__. EMNLP 2019. __Thiago Castro Ferreira, Chris van der Lee__. [[Paper](https://www.aclweb.org/anthology/D19-1052.pdf)] [[Code](https://github.com/ThiagoCF05/DeepNLG)]
 
-__Enhanced Transformer Model for Data-to-Text Generation__. WNGT 2019. __Li Gong, Josep Crego, Jean Senellart__. [[Paper](https://www.aclweb.org/anthology/D19-56)]
+__Enhanced Transformer Model for Data-to-Text Generation__. WNGT 2019. __Li Gong, Josep Crego, Jean Senellart__. [[Paper](https://www.aclweb.org/anthology/D19-5615.pdf)] [[Code](https://github.com/gongliym/data2text-transformer)]
 
 __Learning to Select, Track, and Generate for Data-to-Text__. ACL 2019. __Hayate Iso, Yui Uehara, Tatsuya Ishigaki__. [[Paper](https://arxiv.org/pdf/1907.09699.pdf)] [[Code](https://github.com/aistairc/sports-reporter)] [[Data](https://github.com/aistairc/rotowire-modified)]
 
