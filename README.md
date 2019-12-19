@@ -13,6 +13,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation in Computer Vision](#text-generation-in-computer-vision)
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [Text Generation with Pretrain Language Model](#text-generation-with-pretrain-language-model)
+   - [Some Tools](#some-tools)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
    - [Evaluation Metrics](#evaluation-metrics)
@@ -106,6 +107,9 @@ __Learning to Generate Market Comments from Stocks Prices__. ACL 2017. __Soichir
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
 
 __CTRL: A Contional Transformer Language Model for Controllable Generation__. __Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney__.[[Paper](https://arxiv.org/pdf/1909.05858.pdf)] [[Code](https://github.com/salesforce/ctrl)]
+
+## Some Tools
+__BPE:Neural Machine Translation of Rare Words with Subword Units__. Computer Science 2015. __Rico Sennrich, Barry Haddow, Alexandra Birch__. [[Paper](https://arxiv.org/pdf/1508.07909.pdf)] [[Code](https://github.com/rsennrich/subword-nmt)]
 
 ## General Framework for Text Generation
 __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__. ACL 2019 demo. [[Paper](https://arxiv.org/pdf/1809.00794.pdf)] [[Code](https://github.com/asyml/texar)]
