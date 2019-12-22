@@ -13,7 +13,10 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation in Computer Vision](#text-generation-in-computer-vision)
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [Text Generation with Pretrain Language Model](#text-generation-with-pretrain-language-model)
-   - [Some Tools](#some-tools)
+   - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
+   - [Attention in Text Generations](#attention-in-text-generation)
+   - [Text Generation with Copy](#text-generation-with-copy)
+   - [Some Tricks](#some-tricks)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
    - [Evaluation Metrics](#evaluation-metrics)
@@ -108,11 +111,28 @@ __Plug and Play Languange Models: A Simple Approach to Controlled Text Generatio
 
 __CTRL: A Contional Transformer Language Model for Controllable Generation__. __Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney__.[[Paper](https://arxiv.org/pdf/1909.05858.pdf)] [[Code](https://github.com/salesforce/ctrl)]
 
-## Some Tools
+## Text Generation with Reinforcement Learning
+__Deep Reinforcement Learning for Sequence-to-Sequence Models__. __Yaser Keneshloo, Tian Shi, Naren Ramakrishnan__. [[Paper](https://arxiv.org/pdf/1805.09461.pdf)] [[Code](www.github.com/yaserkl/RLSeq2Seq)]
+
+## Attention in Text Generation
+__Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
+
+__Neural machine translation by jointly learning to align and translate__. ICLR 2015. __Dzmitry Bahdanau__. [[Paper](https://arxiv.org/pdf/1409.0473.pdf)] 
+
+## Text generation with Copy
+__Get to the point: Sum- marization with pointer-generator networks__. ACL 2017. __A. See, P. J. Liu__. [[Paper](https://www.aclweb.org/anthology/P17-1099.pdf)] [[Code](www.github.com/abisee/pointer-generator)]
+
+## Some Tricks
+__Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
+
 __BPE:Neural Machine Translation of Rare Words with Subword Units__. Computer Science 2015. __Rico Sennrich, Barry Haddow, Alexandra Birch__. [[Paper](https://arxiv.org/pdf/1508.07909.pdf)] [[Code](https://github.com/rsennrich/subword-nmt)]
+
+__Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks__. NIPS 2015. __Samy Bengio, Oriol Vinyals, Navdeep Jaitly__. [[Paper](http://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)]
 
 ## General Framework for Text Generation
 __Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation__. ACL 2019 demo. [[Paper](https://arxiv.org/pdf/1809.00794.pdf)] [[Code](https://github.com/asyml/texar)]
+
+__Tensor2Tensor for Neural Machine Translation__. AMTA 2018. __Ashish Vaswani, Samy Bengio, Eugene Brevdo__. [[Paper](https://www.aclweb.org/anthology/W18-1819.pdf)] [[Code](http://github.com/tensorflow/tensor2tensor)]
 
 __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 2018. [[Paper](https://pdfs.semanticscholar.org/79dd/2ee41e4a7de3b3142fea43b8c48d20224ef2.pdf)]
 
