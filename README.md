@@ -67,7 +67,6 @@ __Learning to generate one-sentence biographies from Wikidata__. ECACL 2017. __A
 
 __What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment__. NAACL 2016. __Hongyuan Mei, Mohit Bansal__. [[Paper](https://arxiv.org/pdf/1509.00838.pdf)]
 
- 
 ## Traditional Data-to-Text Generation
 __Probabilistic Verb Selection for Data-to-Text Generation__. ACL 2018. __Dell Zhang, Jiahao Yuan__. [[Paper](https://www.aclweb.org/anthology/Q18-1038.pdf)]
 
@@ -114,6 +113,10 @@ __CTRL: A Contional Transformer Language Model for Controllable Generation__. __
 ## Text Generation with Reinforcement Learning
 __Deep Reinforcement Learning for Sequence-to-Sequence Models__. __Yaser Keneshloo, Tian Shi, Naren Ramakrishnan__. [[Paper](https://arxiv.org/pdf/1805.09461.pdf)] [[Code](www.github.com/yaserkl/RLSeq2Seq)]
 
+__A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain Paulus, Caiming Xiong__. [[Paper](https://openreview.net/pdf?id=HkAClQgA-)]
+
+__An Actor-Critic Algorithm for Sequence Prediction__. ICLR 2017. __Dzmitry Bahdanau Philemon Brakel__. [[Paper](https://openreview.net/pdf?id=SJDaqqveg)] [[Code](https://github.com/rizar/actor-critic-public)]
+
 ## Attention in Text Generation
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
 
@@ -121,6 +124,10 @@ __Neural machine translation by jointly learning to align and translate__. ICLR 
 
 ## Text generation with Copy
 __Get to the point: Sum- marization with pointer-generator networks__. ACL 2017. __A. See, P. J. Liu__. [[Paper](https://www.aclweb.org/anthology/P17-1099.pdf)] [[Code](www.github.com/abisee/pointer-generator)]
+
+__Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)] [[Code]()]
+
+__Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
 ## Some Tricks
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
@@ -154,6 +161,8 @@ __WEATHERGOV: Learning Semantic Correspondences with less supervision__. ACL 200
 __ROBOCUP: Learning to Sportscast: A test of grounded language acquisition__. ICML 2008. __Chen, David L., and Raymond J. Mooney__. [[Paper](http://machinelearning.org/archive/icml2008/papers/304.pdf)] [[Data](https://link.zhihu.com/?target=http%3A//www.cs.utexas.edu/~ml/clamp/sportscasting/data.tar.gz)]
 
 ## Evaluation Metrics
+__CIDEr: Consensus-based Image Description Evaluation__. CVPR 2015. __R. Vedantam, C. Lawrence Zitnick, and D. Parikh__. [[Paper](https://arxiv.org/pdf/1411.5726v1.pdf)]
+
 __METEOR-NEXT: Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level__. NAACL 2010. __Michael Denkowski, Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/N10-1031.pdf)]
 
 __METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments__. ACL workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization. __Satanjeev Banerjee and Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/W07-0734.pdf)]
