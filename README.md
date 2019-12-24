@@ -115,7 +115,13 @@ __Deep Reinforcement Learning for Sequence-to-Sequence Models__. __Yaser Keneshl
 
 __A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain Paulus, Caiming Xiong__. [[Paper](https://openreview.net/pdf?id=HkAClQgA-)]
 
+__Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1063.pdf)] [[Code](https://github.com/ChenRocks/fast_abs_rl)]
+
+__Actor-Critic Sequence Training for Image Captioning__. NIPS 2017. __Li Zhang, Flood Sung__. [[Paper](https://arxiv.org/pdf/1706.09601.pdf)] 
+
 __An Actor-Critic Algorithm for Sequence Prediction__. ICLR 2017. __Dzmitry Bahdanau Philemon Brakel__. [[Paper](https://openreview.net/pdf?id=SJDaqqveg)] [[Code](https://github.com/rizar/actor-critic-public)]
+
+__Self-critical Sequence Training for Image Captioning__. CVPR 2017. __Steven J. Rennie, Etienne Marcheret__. [[Paper](https://arxiv.org/pdf/1612.00563.pdf)]
 
 ## Attention in Text Generation
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
@@ -125,7 +131,7 @@ __Neural machine translation by jointly learning to align and translate__. ICLR 
 ## Text generation with Copy
 __Get to the point: Sum- marization with pointer-generator networks__. ACL 2017. __A. See, P. J. Liu__. [[Paper](https://www.aclweb.org/anthology/P17-1099.pdf)] [[Code](www.github.com/abisee/pointer-generator)]
 
-__Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)] [[Code]()]
+__Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)]
 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
