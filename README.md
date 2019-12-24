@@ -123,6 +123,10 @@ __An Actor-Critic Algorithm for Sequence Prediction__. ICLR 2017. __Dzmitry Bahd
 
 __Self-critical Sequence Training for Image Captioning__. CVPR 2017. __Steven J. Rennie, Etienne Marcheret__. [[Paper](https://arxiv.org/pdf/1612.00563.pdf)]
 
+__Dual Learning for Machine Translation__. NIPS 2016. __Di He, Yingce Xia__. [[Paper](http://papers.nips.cc/paper/6469-dual-learning-for-machine-translation.pdf)]
+
+__Sequence Level Training With Recurrent Neural Networks__. ICLR 2016. __Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba__. [[Paper](https://github.com/facebookresearch/MIXER)]
+
 ## Attention in Text Generation
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
 
@@ -136,6 +140,8 @@ __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
 ## Some Tricks
+__Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
+
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
 
 __BPE:Neural Machine Translation of Rare Words with Subword Units__. Computer Science 2015. __Rico Sennrich, Barry Haddow, Alexandra Birch__. [[Paper](https://arxiv.org/pdf/1508.07909.pdf)] [[Code](https://github.com/rsennrich/subword-nmt)]
