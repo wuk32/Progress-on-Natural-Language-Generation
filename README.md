@@ -60,6 +60,8 @@ __NeuralREG: An End-to-End Approach to Referring Expression Generation__. ACL 20
 
 __GTR-LSTM:A Triple Encoder for Sentence Generation from RDF Data__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1151.pdf)]
 
+__Graph-to-Sequence Learning using Gated Graph Neural Networks__. ACL 2018. __Daniel Beck, Gholamreza Haffari, Trevor Cohn__. [[Paper](https://www.aclweb.org/anthology/P18-1026.pdf)]
+
 __A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization__. NAACL 2018. __Parag Jain Anirban Laha__. [[Paper](https://arxiv.org/pdf/1804.07790.pdf)] 
 
 __Deep Graph Convolutional Encoders for Structured Data to Text Generation__. INLG 2018. __Diego Marcheggiani, Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/W18-6501.pdf)] [[Code](github.com/diegma/graph-2-text)]
@@ -130,7 +132,7 @@ __Self-critical Sequence Training for Image Captioning__. CVPR 2017. __Steven J.
 
 __Dual Learning for Machine Translation__. NIPS 2016. __Di He, Yingce Xia__. [[Paper](http://papers.nips.cc/paper/6469-dual-learning-for-machine-translation.pdf)]
 
-__Sequence Level Training With Recurrent Neural Networks__. ICLR 2016. __Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba__. [[Paper](https://github.com/facebookresearch/MIXER)]
+__Sequence Level Training With Recurrent Neural Networks__. ICLR 2016. __Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba__. [[Paper](https://github.com/facebookresearch/MIXER)] [[Code](https://github.com/facebookresearch/MIXER)]
 
 ## Attention in Text Generation
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
@@ -158,6 +160,8 @@ __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adve
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
 
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
+
+__A Simple, Fast Diverse Decoding Algorithm for Neural Generation__. ArXiv 2016. __Jiwei Li, Will Monroe, Dan Jurafsky__. [[Paper](https://arxiv.org/pdf/1611.08562.pdf)]
 
 __BPE:Neural Machine Translation of Rare Words with Subword Units__. Computer Science 2015. __Rico Sennrich, Barry Haddow, Alexandra Birch__. [[Paper](https://arxiv.org/pdf/1508.07909.pdf)] [[Code](https://github.com/rsennrich/subword-nmt)]
 
