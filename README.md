@@ -16,6 +16,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
    - [Attention in Text Generations](#attention-in-text-generation)
    - [Text Generation with Copy](#text-generation-with-copy)
+   - [Adversarial Text Generation](#adversarial-text-generation)
    - [Some Tricks](#some-tricks)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
@@ -55,6 +56,8 @@ __Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __T
 
 __Table-to-Text: Describing Table Region with Natural Language__. AAAI 2018. __Junwei Bao, Duyu Tang, Nan Duan__. [[Paper](https://arxiv.org/pdf/1805.11234v1.pdf)]
 
+__NeuralREG: An End-to-End Approach to Referring Expression Generation__. ACL 2018. __Thiago Castro Ferreira,Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/P18-1182.pdf)] [[Code](https://github.com/ThiagoCF05/NeuralREG)]
+
 __GTR-LSTM:A Triple Encoder for Sentence Generation from RDF Data__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1151.pdf)]
 
 __A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization__. NAACL 2018. __Parag Jain Anirban Laha__. [[Paper](https://arxiv.org/pdf/1804.07790.pdf)] 
@@ -86,10 +89,10 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
-## Neural Normal Text Generation 
-__NeuralREG: An End-to-End Approach to Referring Expression Generation__. ACL 2018. __Thiago Castro Ferreira,Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/P18-1182.pdf)] [[Code](https://github.com/ThiagoCF05/NeuralREG)]
+## Neural General Sequence Generation 
+__Generating Sequences With Recurrent Neural Networks__. Computer Science 2013. __Alex Graves__. [[Paper](https://arxiv.org/pdf/1308.0850.pdf)]
 
-## Probabilistic & Machine Learning based Method for Normal Text Generation
+## Probabilistic & Machine Learning based Method for General Text Generation
 __A Simple Domain-Independent Probabilistic Approach to Generation__. EMNLP 2010. __Gabor Angeli, Percy Liang, and Dan Klein__. [[Paper](http://aclweb.org/anthology/D10-1049)]
 
 __Probabilistic Generation of Weather Forecast Texts__. NAACL 2007. __Anja Belz__. [[Paper](http://aclweb.org/anthology/N07-1021)]
@@ -117,6 +120,8 @@ __A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain P
 
 __Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1063.pdf)] [[Code](https://github.com/ChenRocks/fast_abs_rl)]
 
+__Decoding with Value Networks for Neural Machine Translation__. NIPS 2017. __Di He, Hanqing Lu, Yingce Xia__. [[Paper](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf)]
+
 __Actor-Critic Sequence Training for Image Captioning__. NIPS 2017. __Li Zhang, Flood Sung__. [[Paper](https://arxiv.org/pdf/1706.09601.pdf)] 
 
 __An Actor-Critic Algorithm for Sequence Prediction__. ICLR 2017. __Dzmitry Bahdanau Philemon Brakel__. [[Paper](https://openreview.net/pdf?id=SJDaqqveg)] [[Code](https://github.com/rizar/actor-critic-public)]
@@ -138,6 +143,16 @@ __Get to the point: Sum- marization with pointer-generator networks__. ACL 2017.
 __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)]
 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
+
+## Adversarail Text Generation
+__Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)]
+
+__SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017. __Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu__. [[Paper](https://discovery.ucl.ac.uk/id/eprint/1533005/1/1609.05473.pdf)] 
+
+__Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 2016. __nirudh Goyal, Alex Lamb∗, Ying Zhang__. [[Paper](http://papers.nips.cc/paper/6099-professor-forcing-a-new-algorithm-for-training-recurrent-networks.pdf)]
+
+__How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary? ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
+
 
 ## Some Tricks
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
