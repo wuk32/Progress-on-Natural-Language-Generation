@@ -147,9 +147,9 @@ __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
 ## Adversarail Text Generation
-__Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)]
+__Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)] [[Code](https://github.com/CR-Gjx/LeakGAN)]
 
-__SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017. __Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu__. [[Paper](https://discovery.ucl.ac.uk/id/eprint/1533005/1/1609.05473.pdf)] 
+__SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017. __Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu__. [[Paper](https://discovery.ucl.ac.uk/id/eprint/1533005/1/1609.05473.pdf)] [[Code](https://github.com/LantaoYu/SeqGAN)] 
 
 __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 2016. __nirudh Goyal, Alex Lamb∗, Ying Zhang__. [[Paper](http://papers.nips.cc/paper/6099-professor-forcing-a-new-algorithm-for-training-recurrent-networks.pdf)]
 
