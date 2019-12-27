@@ -92,6 +92,8 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
 ## Neural General Sequence Generation 
+__Learning to Generate Product Reviews from Attributes__. EACL 2017. __Li Dong, Shaohan Huang, Furu Wei__. [[Paper](https://www.aclweb.org/anthology/E17-1059.pdf)]
+
 __Context-aware Natural Language Generation with Recurrent Neural Networks__. AAAI 2017. __Jian Tang, Yifan Yang, Sam Carton__. [[Paper](https://arxiv.org/pdf/1611.09900.pdf)]
 
 __Generating Sequences With Recurrent Neural Networks__. Computer Science 2013. __Alex Graves__. [[Paper](https://arxiv.org/pdf/1308.0850.pdf)]
@@ -119,6 +121,8 @@ __CTRL: A Contional Transformer Language Model for Controllable Generation__. __
 
 ## Text Generation with Reinforcement Learning
 __Deep Reinforcement Learning for Sequence-to-Sequence Models__. __Yaser Keneshloo, Tian Shi, Naren Ramakrishnan__. [[Paper](https://arxiv.org/pdf/1805.09461.pdf)] [[Code](www.github.com/yaserkl/RLSeq2Seq)]
+
+__Actor-Critic based Training Framework for Abstractive Summarization__. __Piji Li, Lidong Bing, Wai Lam__. [[Paper](https://arxiv.org/pdf/1803.11070.pdf)]
 
 __A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain Paulus, Caiming Xiong__. [[Paper](https://openreview.net/pdf?id=HkAClQgA-)]
 
