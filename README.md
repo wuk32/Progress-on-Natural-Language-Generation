@@ -92,6 +92,8 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
 ## Neural General Sequence Generation 
+__Context-aware Natural Language Generation with Recurrent Neural Networks__. AAAI 2017. __Jian Tang, Yifan Yang, Sam Carton__. [[Paper](https://arxiv.org/pdf/1611.09900.pdf)]
+
 __Generating Sequences With Recurrent Neural Networks__. Computer Science 2013. __Alex Graves__. [[Paper](https://arxiv.org/pdf/1308.0850.pdf)]
 
 ## Probabilistic & Machine Learning based Method for General Text Generation
@@ -149,11 +151,13 @@ __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[
 ## Adversarail Text Generation
 __Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)] [[Code](https://github.com/CR-Gjx/LeakGAN)]
 
+__Adversarial Ranking for Language Generation__. NIPS 2017. __Kevin Lin, Dianqi Li__. [[Paper](http://papers.nips.cc/paper/6908-adversarial-ranking-for-language-generation.pdf)]
+
 __SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017. __Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu__. [[Paper](https://discovery.ucl.ac.uk/id/eprint/1533005/1/1609.05473.pdf)] [[Code](https://github.com/LantaoYu/SeqGAN)] 
 
 __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 2016. __nirudh Goyal, Alex Lamb∗, Ying Zhang__. [[Paper](http://papers.nips.cc/paper/6099-professor-forcing-a-new-algorithm-for-training-recurrent-networks.pdf)]
 
-__How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary? ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
+__How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary?__. ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
 
 
 ## Some Tricks
