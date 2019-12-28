@@ -66,6 +66,8 @@ __A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Tab
 
 __Deep Graph Convolutional Encoders for Structured Data to Text Generation__. INLG 2018. __Diego Marcheggiani, Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/W18-6501.pdf)] [[Code](github.com/diegma/graph-2-text)]
 
+__End-to-End Content and Plan Selection for Data-to-Text Generation__. INLG 2018. __Sebastian Gehrmann, Falcon Z. Dai, Henry Elder__. [[Paper](https://arxiv.org/pdf/1810.04700.pdf)] [[Code](https://github.com/sebastianGehrmann/diverse_ensembling)]
+
 __Order-Planning Neural Text Generation From Structured Data__. CoRR 2017. __Lei Sha__. [[Paper](https://arxiv.org/pdf/1709.00155.pdf)] 
 
 __Learning to generate one-sentence biographies from Wikidata__. ECACL 2017. __Andrew Chisholm, Will Radford__. [[Paper](https://www.aclweb.org/anthology/E17-1060.pdf)] [[Code](https://github.com/andychisholm/mimo)]
@@ -111,6 +113,7 @@ __Generating Market Comment Referring to External Resources__. INLG 2018. __Tats
 __Learning to Generate Market Comments from Stocks Prices__. ACL 2017. __Soichiro Murakami, Akihiko Watanabe__. [[Paper](https://doi.org/10.18653/v1/P17-1126)]
 
 ## Text Generation with External Knowledge
+__PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qingyun Wang, Lifu Huang, Zhiying Jiang__. [[Paper](https://arxiv.org/pdf/1905.07870.pdf)] [[Code](https://github.com/EagleW/PaperRobot)] [[Data](http://dan.corlan.net/medline-trend/language/absolute.html)]
 
 ## Text Generation for Machine Translation
 
