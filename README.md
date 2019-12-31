@@ -50,6 +50,8 @@ __Operations Guided Neural Networks for High Fidelity Data-To-Text Generation__.
 
 __Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation__. NAACL 2019. __Amit Moryossef, Yoav Goldberg, Ido Dagan__. [[Paper](https://www.aclweb.org/anthology/N19-1236.pdf)] [[Code](https://github.com/AmitMY/chimera)]
 
+__An Encoder with non-Sequential Dependency for Neural Data-to-Text Generation__. INLG 2019. __Feng Nie, Jinpeng Wang, Rong Pan__. [[Paper](https://www.inlg2019.com/assets/papers/125_Paper.pdf)]
+
 __Point Precisely: Towards Ensuring the Precision of Data in Generated Texts Using Delayed Copy Mechanism__. COLING 2018. __Liunian Li Xiaojun Wan__. [[Paper](https://www.aclweb.org/anthology/C18-1089.pdf)] 
 
 __Table-to-Text Generation by Structure-aware Seq2Seq Learning__. AAAI 2018. __Tianyu Liu, Kexiang Wang, Lei Sha__. [[Paper](https://arxiv.org/pdf/1711.09724.pdf)] [[Code](https://github.com/tyliupku/wiki2bio)]
@@ -144,6 +146,8 @@ __Dual Learning for Machine Translation__. NIPS 2016. __Di He, Yingce Xia__. [[P
 __Sequence Level Training With Recurrent Neural Networks__. ICLR 2016. __Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba__. [[Paper](https://github.com/facebookresearch/MIXER)] [[Code](https://github.com/facebookresearch/MIXER)]
 
 ## Attention in Text Generation
+__Coarse-to-Fine Attention Models for Document Summarization__. WNFS 2017. __Jeffrey Ling, Alexander M. Rush__. [[Paper](https://www.aclweb.org/anthology/W17-4505.pdf)] [[Code]( https://github.com/gregdurrett/berkeley-doc-summarizer)]
+ 
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
 
 __Neural machine translation by jointly learning to align and translate__. ICLR 2015. __Dzmitry Bahdanau__. [[Paper](https://arxiv.org/pdf/1409.0473.pdf)] 
