@@ -96,6 +96,8 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
 ## Neural General Sequence Generation 
+__Generating Sentences by Editing Prototypes__。 TACL 2018. __Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang__. [[Paper](https://arxiv.org/pdf/1709.08878.pdf)]
+
 __Learning to Generate Product Reviews from Attributes__. EACL 2017. __Li Dong, Shaohan Huang, Furu Wei__. [[Paper](https://www.aclweb.org/anthology/E17-1059.pdf)]
 
 __Context-aware Natural Language Generation with Recurrent Neural Networks__. AAAI 2017. __Jian Tang, Yifan Yang, Sam Carton__. [[Paper](https://arxiv.org/pdf/1611.09900.pdf)]
@@ -195,6 +197,8 @@ __OpenNMT: Open-Source Toolkit for Neural Machine Translation__. __Guillaume Kle
 __WikiInfo2Text:Enhancing Neural Data-To-Text Generation Models with External Background Knowledge__. EMNLP, 2019. __Shuang Chen, Jinpeng Wang__. [[Paper](https://www.aclweb.org/anthology/D19-1299.pdf)] [[Data](https://github.com/hitercs/WikiInfo2Text)] 
 
 __Enriching the WebNLG corpus__. INLG 2018. __Thiago Castro Ferreira, Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/W18-6521.pdf)] [[Code](https://github.com/ThiagoCF05/webnlg)]
+
+__E2E Dataset: New Challenges For End-to-End Generation__. SIGDIAL 2017. __Jekaterina Novikova, Ondrˇej Dusˇek, Verena Rieser__. [[Paper](https://www.aclweb.org/anthology/W17-5525.pdf)] [[Data](http://www.macs.hw.ac.uk/InteractionLab/E2E/)]
 
 __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[Data](https://github.com/harvardnlp/boxscore-data)]
 
