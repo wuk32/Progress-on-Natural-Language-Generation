@@ -162,6 +162,8 @@ __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
 ## Adversarail Text Generation
+__Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization__. ACL 2018. __Shuming Ma, Xu Sun, Junyang Lin, Houfeng Wang__. [[Paper](https://www.aclweb.org/anthology/P18-2115.pdf)] [[Code](https://github.com/lancopku/superAE)]
+
 __Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)] [[Code](https://github.com/CR-Gjx/LeakGAN)]
 
 __Adversarial Ranking for Language Generation__. NIPS 2017. __Kevin Lin, Dianqi Li__. [[Paper](http://papers.nips.cc/paper/6908-adversarial-ranking-for-language-generation.pdf)]
