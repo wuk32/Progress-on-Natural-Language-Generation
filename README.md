@@ -179,7 +179,7 @@ __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adve
 
 
 ## Some Tricks
-__word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. ICLR 2020. [[Paper](https://openreview.net/pdf?id=HkxARkrFwB)]
+__word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. ICLR 2020. __Aliakbar Panahi, Seyran Saeedi, Tom Arodz__. [[Paper](https://openreview.net/pdf?id=HkxARkrFwB)]
 
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
 
