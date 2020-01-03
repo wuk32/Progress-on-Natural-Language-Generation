@@ -121,6 +121,9 @@ __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qi
 
 ## Text Generation for Machine Translation
 
+## Text Generation for Dialogue Generation
+__An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
+
 ## Text Generation with Pretrain Language Model
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
 
@@ -176,6 +179,8 @@ __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adve
 
 
 ## Some Tricks
+__word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. ICLR 2020. [[Paper](https://openreview.net/pdf?id=HkxARkrFwB)]
+
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
 
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
@@ -213,6 +218,8 @@ __WEATHERGOV: Learning Semantic Correspondences with less supervision__. ACL 200
 __ROBOCUP: Learning to Sportscast: A test of grounded language acquisition__. ICML 2008. __Chen, David L., and Raymond J. Mooney__. [[Paper](http://machinelearning.org/archive/icml2008/papers/304.pdf)] [[Data](https://link.zhihu.com/?target=http%3A//www.cs.utexas.edu/~ml/clamp/sportscasting/data.tar.gz)]
 
 ## Evaluation Metrics
+__BERTScore: Evaluating Text Generation with BERT__. ICLR 2020. [[Paper](https://openreview.net/pdf?id=SkeHuCVFDr)]
+
 __CIDEr: Consensus-based Image Description Evaluation__. CVPR 2015. __R. Vedantam, C. Lawrence Zitnick, and D. Parikh__. [[Paper](https://arxiv.org/pdf/1411.5726v1.pdf)]
 
 __METEOR-NEXT: Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level__. NAACL 2010. __Michael Denkowski, Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/N10-1031.pdf)]
