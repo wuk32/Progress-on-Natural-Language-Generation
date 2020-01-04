@@ -124,6 +124,8 @@ __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qi
 ## Text Generation for Dialogue Generation
 __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
 
+
+
 ## Text Generation with Pretrain Language Model
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
 
@@ -164,7 +166,7 @@ __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. 
 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
 
-## Adversarail Text Generation
+## Adversarial Text Generation
 __Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization__. ACL 2018. __Shuming Ma, Xu Sun, Junyang Lin, Houfeng Wang__. [[Paper](https://www.aclweb.org/anthology/P18-2115.pdf)] [[Code](https://github.com/lancopku/superAE)]
 
 __Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)] [[Code](https://github.com/CR-Gjx/LeakGAN)]
@@ -172,6 +174,8 @@ __Long Text Generation via Adversarial Training with Leaked Information__. AAAI 
 __Adversarial Ranking for Language Generation__. NIPS 2017. __Kevin Lin, Dianqi Li__. [[Paper](http://papers.nips.cc/paper/6908-adversarial-ranking-for-language-generation.pdf)]
 
 __SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017. __Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu__. [[Paper](https://discovery.ucl.ac.uk/id/eprint/1533005/1/1609.05473.pdf)] [[Code](https://github.com/LantaoYu/SeqGAN)] 
+
+__Adversarial Learning for Neural Dialogue Generation__. EMNLP 2017. __Jiwei Li, Will Monroe, Tianlin Shi__. [[Paper](https://www.aclweb.org/anthology/D17-1229.pdf)]
 
 __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 2016. __nirudh Goyal, Alex Lamb∗, Ying Zhang__. [[Paper](http://papers.nips.cc/paper/6099-professor-forcing-a-new-algorithm-for-training-recurrent-networks.pdf)]
 
