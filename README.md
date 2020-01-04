@@ -177,6 +177,8 @@ __SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient__. AAAI 2017
 
 __Adversarial Learning for Neural Dialogue Generation__. EMNLP 2017. __Jiwei Li, Will Monroe, Tianlin Shi__. [[Paper](https://www.aclweb.org/anthology/D17-1229.pdf)]
 
+__Adversarial generation of natural language__. SIGREP 2017. __Sandeep Subramanian, Sai Rajeswar, Francis Dutil, Chris Pal, Aaron Courville__. [[Paper](https://www.aclweb.org/anthology/W17-2629.pdf)]
+
 __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 2016. __nirudh Goyal, Alex Lamb∗, Ying Zhang__. [[Paper](http://papers.nips.cc/paper/6099-professor-forcing-a-new-algorithm-for-training-recurrent-networks.pdf)]
 
 __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary?__. ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
