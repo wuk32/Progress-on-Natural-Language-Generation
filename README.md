@@ -222,6 +222,8 @@ __BERTScore: Evaluating Text Generation with BERT__. ICLR 2020. [[Paper](https:/
 
 __CIDEr: Consensus-based Image Description Evaluation__. CVPR 2015. __R. Vedantam, C. Lawrence Zitnick, and D. Parikh__. [[Paper](https://arxiv.org/pdf/1411.5726v1.pdf)]
 
+__BEER: BEtter Evaluation as Ranking__. SMT 2014. __Milos Stanojevic, Khalil Sima’an__. [[Paper](https://www.aclweb.org/anthology/W14-3354.pdf)] ́
+
 __METEOR-NEXT: Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level__. NAACL 2010. __Michael Denkowski, Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/N10-1031.pdf)]
 
 __METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments__. ACL workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization. __Satanjeev Banerjee and Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/W07-0734.pdf)]
