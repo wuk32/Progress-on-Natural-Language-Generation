@@ -81,6 +81,8 @@ __Probabilistic Verb Selection for Data-to-Text Generation__. ACL 2018. __Dell Z
 
 __Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data__. EMNLP 2018. __Guanghui Qin, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, Chin-Yew Lin__. [[Paper](https://www.aclweb.org/anthology/D18-1411.pdf)] [[Code](https://github.com/hiaoxui/D2T-Grounding)]
 
+__A Statistical Framework for Product Description Generation__. IJCNLP 2017. __Jinpeng Wang, Yutai Hou, Jing Liu, Yunbo Cao and Chin-Yew Lin__. [[Paper](https://www.aclweb.org/anthology/I17-2032.pdf)]
+
 __A Statistical Framework for Product Description Generation__. IJCNLP 2017. __Jinpeng Wang, Yutai Hou__. [[Paper](https://www.aclweb.org/anthology/I17-2032.pdf)]
 
 __Unsupervised Concept-to-Text Generation with Hypergraphs__. NAACL 2012. __Ioannis Konstas and Mirella Lapata__. [[Paper](http://aclweb.org/anthology/N12-1093)]
