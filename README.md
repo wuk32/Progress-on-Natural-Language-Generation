@@ -131,6 +131,8 @@ __Plug and Play Languange Models: A Simple Approach to Controlled Text Generatio
 
 __CTRL: A Contional Transformer Language Model for Controllable Generation__. __Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney__.[[Paper](https://arxiv.org/pdf/1909.05858.pdf)] [[Code](https://github.com/salesforce/ctrl)]
 
+__Improving Language Understanding by Generative Pre-Training__. __Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever__. [[Paper](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)] [[Code](https://github.com/openai/finetune-transformer-lm)]
+
 ## Text Generation with Reinforcement Learning
 __Deep Reinforcement Learning for Sequence-to-Sequence Models__. __Yaser Keneshloo, Tian Shi, Naren Ramakrishnan__. [[Paper](https://arxiv.org/pdf/1805.09461.pdf)] [[Code](www.github.com/yaserkl/RLSeq2Seq)]
 
