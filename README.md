@@ -104,6 +104,8 @@ __Learning to Generate Product Reviews from Attributes__. EACL 2017. __Li Dong, 
 
 __Context-aware Natural Language Generation with Recurrent Neural Networks__. AAAI 2017. __Jian Tang, Yifan Yang, Sam Carton__. [[Paper](https://arxiv.org/pdf/1611.09900.pdf)]
 
+__Chinese Poetry Generation with Recurrent Neural Networks__. EMNLP 2014. __Xingxing Zhang and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/D14-1074.pdf)]
+
 __Generating Sequences With Recurrent Neural Networks__. Computer Science 2013. __Alex Graves__. [[Paper](https://arxiv.org/pdf/1308.0850.pdf)]
 
 ## Probabilistic & Machine Learning based Method for General Text Generation
@@ -172,6 +174,8 @@ __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[
 
 ## Adversarial Text Generation
 __Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization__. ACL 2018. __Shuming Ma, Xu Sun, Junyang Lin, Houfeng Wang__. [[Paper](https://www.aclweb.org/anthology/P18-2115.pdf)] [[Code](https://github.com/lancopku/superAE)]
+
+__Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets__. NAACL 2018. __Zhen Yang, Wei Chen__. [[Paper](https://arxiv.org/pdf/1703.04887.pdf)] [[Code](https://github.com/ZhenYangIACAS/NMT_GAN)]
 
 __Long Text Generation via Adversarial Training with Leaked Information__. AAAI 2018. __Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang__. [[Paper](https://arxiv.org/pdf/1709.08624.pdf)] [[Code](https://github.com/CR-Gjx/LeakGAN)]
 
