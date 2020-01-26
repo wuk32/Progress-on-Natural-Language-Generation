@@ -98,7 +98,9 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
-## Neural General Sequence Generation 
+## Text Generation Theory and Application 
+__Personalized Review Generation by Expanding Phrases and Attending on Aspect-Aware Representations__. ACL 2018. __Jianmo Ni, Julian McAuley__. [[Paper](https://www.aclweb.org/anthology/P18-2112.pdf)] [[Code](https://github.com/nijianmo/textExpansion)]
+
 __Generating Sentences by Editing Prototypes__。 TACL 2018. __Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang__. [[Paper](https://arxiv.org/pdf/1709.08878.pdf)]
 
 __Learning to Generate Product Reviews from Attributes__. EACL 2017. __Li Dong, Shaohan Huang, Furu Wei__. [[Paper](https://www.aclweb.org/anthology/E17-1059.pdf)]
