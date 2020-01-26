@@ -12,6 +12,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation for Machine Translation](#text-generation-for-machine-translation)
    - [Text Generation in Computer Vision](#text-generation-in-computer-vision)
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
+   - [Story Generation](#story-generation)
    - [Text Generation with Pretrain Language Model](#text-generation-with-pretrain-language-model)
    - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
    - [Attention in Text Generations](#attention-in-text-generation)
@@ -131,7 +132,8 @@ __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qi
 ## Text Generation for Dialogue Generation
 __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
 
-
+## Story Generation
+__Hierarchical Neural Story Generation__. ACL 2018. __Angela Fan, Mike Lewis, Yann Dauphin__. [[Paper](https://arxiv.org/pdf/1805.04833.pdf)] 
 
 ## Text Generation with Pretrain Language Model
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
