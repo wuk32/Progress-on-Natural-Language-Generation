@@ -17,6 +17,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Attention in Text Generations](#attention-in-text-generation)
    - [Text Generation with Copy](#text-generation-with-copy)
    - [Adversarial Text Generation](#adversarial-text-generation)
+   - [Graph-based Text Generation](#graph-based-text-generation)
    - [Some Tricks](#some-tricks)
    - [General Framework for Text Generation](#general-framework-for-text-generation)
    - [DataSet](#dataset)
@@ -191,7 +192,9 @@ __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 201
 
 __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary?__. ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
 
-
+# Graph-based Text Generation
+__A Graph-to-Sequence Model for AMR-to-Text Generation__. ACL 2018. __Linfeng Song, Yue Zhang__. [[Paper](https://www.aclweb.org/anthology/P18-1150.pdf)] [[Code](https://github.com/freesunshine0316/neural-graph-to-seq-mp)]
+ 
 ## Some Tricks
 __word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. ICLR 2020. __Aliakbar Panahi, Seyran Saeedi, Tom Arodz__. [[Paper](https://openreview.net/pdf?id=HkxARkrFwB)]
 
