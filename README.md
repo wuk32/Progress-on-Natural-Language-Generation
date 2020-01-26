@@ -17,6 +17,7 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
    - [Attention in Text Generations](#attention-in-text-generation)
    - [Text Generation with Copy](#text-generation-with-copy)
+   - [Text Generation for Data Augmentation](#text-generation-for-data-augmentation)
    - [Adversarial Text Generation](#adversarial-text-generation)
    - [Graph-based Text Generation](#graph-based-text-generation)
    - [Some Tricks](#some-tricks)
@@ -149,6 +150,8 @@ __Actor-Critic based Training Framework for Abstractive Summarization__. __Piji 
 
 __A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain Paulus, Caiming Xiong__. [[Paper](https://openreview.net/pdf?id=HkAClQgA-)]
 
+__Paraphrase Generation with Deep Reinforcement Learning__. EMNLP 2018. __Zichao Li, Xin Jiang, Lifeng Shang__. [[Paper](https://www.aclweb.org/anthology/D18-1421.pdf)]
+
 __Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1063.pdf)] [[Code](https://github.com/ChenRocks/fast_abs_rl)]
 
 __Decoding with Value Networks for Neural Machine Translation__. NIPS 2017. __Di He, Hanqing Lu, Yingce Xia__. [[Paper](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf)]
@@ -176,6 +179,9 @@ __Get to the point: Sum- marization with pointer-generator networks__. ACL 2017.
 __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)]
 
 __Pointer networks__. NIPS 2015. __O. Vinyals, M. Fortunato, and N. Jaitly__. [[Paper](http://papers.nips.cc/paper/5866-pointer-networks.pdf)]
+
+## Text Generation for Data Augmentation
+__Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding__. COLING 2018. __Yutai Hou, Yijia Liu, Wanxiang Che__. [[Paper](https://www.aclweb.org/anthology/C18-1105.pdf)] [[Code](https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU)]
 
 ## Adversarial Text Generation
 __Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization__. ACL 2018. __Shuming Ma, Xu Sun, Junyang Lin, Houfeng Wang__. [[Paper](https://www.aclweb.org/anthology/P18-2115.pdf)] [[Code](https://github.com/lancopku/superAE)]
