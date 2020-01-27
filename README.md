@@ -101,9 +101,11 @@ __Statistical Acquisition of Content Selection Rules for Natural Language Genera
 __Empirically Estimating Order Constraints for Content Planning in Generation__. ACL 2001. __Pablo A Duboue and Kathleen R McKeown__. [[Paper](https://www.aclweb.org/anthology/P01-1023.pdf)]
 
 ## Text Generation Theory and Application 
+__Semi-Supervised Neural Text Generation by Joint Learning of Natural Language Generation and Natural Language Understanding Models__. __Raheel Qader, Franc ̧ois Portet__. [[Paper](https://arxiv.org/pdf/1910.03484.pdf)]
+
 __Personalized Review Generation by Expanding Phrases and Attending on Aspect-Aware Representations__. ACL 2018. __Jianmo Ni, Julian McAuley__. [[Paper](https://www.aclweb.org/anthology/P18-2112.pdf)] [[Code](https://github.com/nijianmo/textExpansion)]
 
-__Generating Sentences by Editing Prototypes__。 TACL 2018. __Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang__. [[Paper](https://arxiv.org/pdf/1709.08878.pdf)]
+__Generating Sentences by Editing Prototypes__. TACL 2018. __Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang__. [[Paper](https://arxiv.org/pdf/1709.08878.pdf)]
 
 __Learning to Generate Product Reviews from Attributes__. EACL 2017. __Li Dong, Shaohan Huang, Furu Wei__. [[Paper](https://www.aclweb.org/anthology/E17-1059.pdf)]
 
@@ -253,6 +255,8 @@ __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wisem
 __The Code2Text Challenge: Text Generation in Source Code Libraries__. INLG 2017. __Kyle Richardson, Sina Zarrieß__. [[Paper](https://www.aclweb.org/anthology/W17-3516.pdf)]
 
 __WebNLG: The WebNLG Challenge:  Generating text from RDF data__. INLG 2017. __Claire Gardent, Anastasia Shimorina, Shashi Narayan, and Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/W17-3518.pdf)] [[Data](https://www.aclweb.org/portal/content/webnlg-challenge-first-call-participation-0)]
+
+__Analysing Data-To-Text Generation Benchmarks__. INLG 2017. __Laura Perez-Beltrachini, Claire Gardent__. [[Paper](https://www.aclweb.org/anthology/W17-3537.pdf)]
 
 __WikiBio: Neural Text Generation from Structured Data with Application to the Biography Domain__. EMNLP 2016. __Rémi Lebret, David Grangier and Michael Auli__. [[Paper](http://arxiv.org/abs/1603.07771)] [[Data](https://github.com/DavidGrangier/wikipedia-biography-dataset)]
 
