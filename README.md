@@ -131,6 +131,8 @@ __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qi
 ## Text Generation for Machine Translation
 
 ## Text Generation for Dialogue Generation
+__Retrieve and Refine: Improved Sequence Generation Models For Dialogue__. EMNLP 2018. __Jason Weston, Emily Dinan and Alexander H. Miller__. [[Paper](https://www.aclweb.org/anthology/W18-5713.pdf)]
+
 __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
 
 ## Story Generation
@@ -159,6 +161,8 @@ __A Deep Reinforced Model for Abstractive Summarization__. ICLR 2018. __Romain P
 __Paraphrase Generation with Deep Reinforcement Learning__. EMNLP 2018. __Zichao Li, Xin Jiang, Lifeng Shang__. [[Paper](https://www.aclweb.org/anthology/D18-1421.pdf)]
 
 __Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting__. ACL 2018. [[Paper](https://www.aclweb.org/anthology/P18-1063.pdf)] [[Code](https://github.com/ChenRocks/fast_abs_rl)]
+
+__Sentence Simplification with Deep Reinforcement Learning__. EMNLP 2017. __Xingxing Zhang and Mirella Lapata__. [[Paper](https://arxiv.org/pdf/1703.10931.pdf)] [[Code](http://github.com/XingxingZhang/dress)]
 
 __Decoding with Value Networks for Neural Machine Translation__. NIPS 2017. __Di He, Hanqing Lu, Yingce Xia__. [[Paper](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf)]
 
@@ -208,7 +212,7 @@ __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 201
 
 __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary?__. ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
 
-# Graph-based Text Generation
+## Graph-based Text Generation
 __Enhancing AMR-to-Text Generation with Dual Graph Representations__. EMNLP 2019. __Leonardo F. R. Ribeiro, Claire Gardent and Iryna Gurevych__. [[Paper](https://www.aclweb.org/anthology/D19-1314.pdf)] [[Code](https://github.com/UKPLab/emnlp2019-dualgraph)]
 
 __A Graph-to-Sequence Model for AMR-to-Text Generation__. ACL 2018. __Linfeng Song, Yue Zhang__. [[Paper](https://www.aclweb.org/anthology/P18-1150.pdf)] [[Code](https://github.com/freesunshine0316/neural-graph-to-seq-mp)]
@@ -219,6 +223,8 @@ __word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. 
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
 
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
+
+__LightRNN: Memory and Computation-Efficient Recurrent Neural Networks__. NIPS 2016. __Xiang Li, Tao Qin__. [[Paper](http://papers.nips.cc/paper/6512-lightrnn-memory-and-computation-efficient-recurrent-neural-networks.pdf)]
 
 __A Simple, Fast Diverse Decoding Algorithm for Neural Generation__. ArXiv 2016. __Jiwei Li, Will Monroe, Dan Jurafsky__. [[Paper](https://arxiv.org/pdf/1611.08562.pdf)]
 
