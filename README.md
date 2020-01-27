@@ -137,6 +137,8 @@ __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependenc
 __Hierarchical Neural Story Generation__. ACL 2018. __Angela Fan, Mike Lewis, Yann Dauphin__. [[Paper](https://arxiv.org/pdf/1805.04833.pdf)] 
 
 ## Text Generation with Pretrain Language Model
+__Text Summarization with Pretrained Encoders__. EMNLP 2019. __Yang Liu and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/D19-1387.pdf)] [[Code](https://github.com/nlpyang/PreSumm)]
+
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
 
 __CTRL: A Contional Transformer Language Model for Controllable Generation__. __Nitish Shirish Keskar, Bryan McCann, Lav R. Varshney__.[[Paper](https://arxiv.org/pdf/1909.05858.pdf)] [[Code](https://github.com/salesforce/ctrl)]
@@ -203,6 +205,8 @@ __Professor Forcing: A New Algorithm for Training Recurrent Networks__. NIPS 201
 __How (Not) to Train Your Generative Model: Scheduled Sampling, Likelihood, Adversary?__. ICLR 2016. __Ferenc Husza ́r__. [[Paper](https://arxiv.org/pdf/1511.05101.pdf)]
 
 # Graph-based Text Generation
+__Enhancing AMR-to-Text Generation with Dual Graph Representations__. EMNLP 2019. __Leonardo F. R. Ribeiro, Claire Gardent and Iryna Gurevych__. [[Paper](https://www.aclweb.org/anthology/D19-1314.pdf)] [[Code](https://github.com/UKPLab/emnlp2019-dualgraph)]
+
 __A Graph-to-Sequence Model for AMR-to-Text Generation__. ACL 2018. __Linfeng Song, Yue Zhang__. [[Paper](https://www.aclweb.org/anthology/P18-1150.pdf)] [[Code](https://github.com/freesunshine0316/neural-graph-to-seq-mp)]
  
 ## Some Tricks
