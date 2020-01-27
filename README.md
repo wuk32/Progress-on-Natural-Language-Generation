@@ -134,10 +134,14 @@ __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qi
 __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
 
 ## Story Generation
+__Counterfactual Story Reasoning and Generation__. EMNLP 2019. __Lianhui Qin, Antoine Bosselut__. [[Paper](https://www.aclweb.org/anthology/D19-1509.pdf)] 
+
 __Hierarchical Neural Story Generation__. ACL 2018. __Angela Fan, Mike Lewis, Yann Dauphin__. [[Paper](https://arxiv.org/pdf/1805.04833.pdf)] 
 
 ## Text Generation with Pretrain Language Model
 __Text Summarization with Pretrained Encoders__. EMNLP 2019. __Yang Liu and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/D19-1387.pdf)] [[Code](https://github.com/nlpyang/PreSumm)]
+
+__Denoising based Sequence-to-Sequence Pre-training for Text Generation__. EMNLP 2019. __Liang Wang, Wei Zhao, Ruoyu Jia__. [[Paper](https://www.aclweb.org/anthology/D19-1412.pdf)] [[Code](https://github.com/yuantiku/PoDA)]
 
 __Plug and Play Languange Models: A Simple Approach to Controlled Text Generation__. __Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung__. [[Paper](https://arxiv.org/pdf/1912.02164.pdf)] [[Code](https://github.com/uber-research/PPLM)]
 
@@ -239,6 +243,8 @@ __Enriching the WebNLG corpus__. INLG 2018. __Thiago Castro Ferreira, Diego Mous
 __E2E Dataset: New Challenges For End-to-End Generation__. SIGDIAL 2017. __Jekaterina Novikova, Ondrˇej Dusˇek, Verena Rieser__. [[Paper](https://www.aclweb.org/anthology/W17-5525.pdf)] [[Data](http://www.macs.hw.ac.uk/InteractionLab/E2E/)]
 
 __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[Data](https://github.com/harvardnlp/boxscore-data)]
+
+__The Code2Text Challenge: Text Generation in Source Code Libraries__. INLG 2017. __Kyle Richardson, Sina Zarrieß__. [[Paper](https://www.aclweb.org/anthology/W17-3516.pdf)]
 
 __WebNLG: The WebNLG Challenge:  Generating text from RDF data__. INLG 2017. __Claire Gardent, Anastasia Shimorina, Shashi Narayan, and Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/W17-3518.pdf)] [[Data](https://www.aclweb.org/portal/content/webnlg-challenge-first-call-participation-0)]
 
