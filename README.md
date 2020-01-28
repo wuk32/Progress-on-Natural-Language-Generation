@@ -14,6 +14,8 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [Story Generation](#story-generation)
    - [Sentence Rewriting](#sentence-rewriting)
+   - [Text Style Transfer](#text-style-transfer)
+   - [Template-based Text Generation](#template-based-text-generation)
    - [Summarization](#summarization)
    - [Text Generation with Pretrain Language Model](#text-generation-with-pretrain-language-model)
    - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
@@ -139,6 +141,7 @@ __Learning to Generate Market Comments from Stocks Prices__. ACL 2017. __Soichir
 __PaperRobot: Incremental Draft Generation of Scientific Ideas__. ACL 2019. __Qingyun Wang, Lifu Huang, Zhiying Jiang__. [[Paper](https://arxiv.org/pdf/1905.07870.pdf)] [[Code](https://github.com/EagleW/PaperRobot)] [[Data](http://dan.corlan.net/medline-trend/language/absolute.html)]
 
 ## Text Generation for Machine Translation
+__Massive Exploration of Neural Machine Translation Architectures__. EMNLP 2017. __Denny Britz , Anna Goldie, Minh-Thang Luong__. [[Paper](https://www.aclweb.org/anthology/D17-1151.pdf)] [[Code](https://github.com/google/seq2seq/)]
 
 ## Text Generation for Dialogue Generation
 __Retrieve and Refine: Improved Sequence Generation Models For Dialogue__. EMNLP 2018. __Jason Weston, Emily Dinan and Alexander H. Miller__. [[Paper](https://www.aclweb.org/anthology/W18-5713.pdf)]
@@ -153,6 +156,12 @@ __Counterfactual Story Reasoning and Generation__. EMNLP 2019. __Lianhui Qin, An
 __Hierarchical Neural Story Generation__. ACL 2018. __Angela Fan, Mike Lewis, Yann Dauphin__. [[Paper](https://arxiv.org/pdf/1805.04833.pdf)] 
 
 ## Sentence Rewriting
+
+## Text Style Transfer
+__Rethinking Text Attribute Transfer: A Lexical Analysis__. INLG 2019. __Yao Fu, Hao Zhou, Jiaze Chen, Lei Li__. [[Paper](https://arxiv.org/pdf/1909.12335.pdf)] [[Code](https://github.com/FranxYao/pivot_analysis)]
+
+## Template-based Text Generation
+__Large-scale Simple Question Generation by Template-based Seq2seq Learning__. __Tianyu Liu, Bingzhen Wei, Baobao Chang, Zhifang Sui__. [[Paper](http://tcci.ccf.org.cn/conference/2017/papers/1066.pdf)]
 
 ## Summarization 
 __Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization__. ACL 2018. __Ziqiang Cao, Wenjie Li, Furu Wei, Sujian Li__. [[Paper](https://www.aclweb.org/anthology/P18-1015.pdf)] [[Code](http://www4.comp.polyu.edu.hk/~cszqcao/)]
@@ -194,6 +203,8 @@ __Dual Learning for Machine Translation__. NIPS 2016. __Di He, Yingce Xia__. [[P
 __Sequence Level Training With Recurrent Neural Networks__. ICLR 2016. __Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba__. [[Paper](https://github.com/facebookresearch/MIXER)] [[Code](https://github.com/facebookresearch/MIXER)]
 
 ## Attention in Text Generation
+__Sequence Generation with Target Attention__. ECMLP-KDD 2017. __Yingce Xia, Fei Tian, Tao Qin, Nenghai Yu__. [[Paper](http://ecmlpkdd2017.ijs.si/papers/paperID307.pdf)]
+
 __Coarse-to-Fine Attention Models for Document Summarization__. WNFS 2017. __Jeffrey Ling, Alexander M. Rush__. [[Paper](https://www.aclweb.org/anthology/W17-4505.pdf)] [[Code]( https://github.com/gregdurrett/berkeley-doc-summarizer)]
  
 __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015. [[Paper](https://www.aclweb.org/anthology/D15-1166.pdf)]
@@ -264,6 +275,8 @@ __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 201
 
 __OpenNMT: Open-Source Toolkit for Neural Machine Translation__. __Guillaume Klein, Yoon Kim__. [[Paper](https://arxiv.org/pdf/1701.02810v1.pdf)] [[Code](https://github.com/OpenNMT/OpenNMT)]
 
+__ParlAI: A Dialog Research Software Platform__. __Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu__. [[Paper](https://arxiv.org/pdf/1705.06476.pdf)] [[Code](http://parl.ai)]
+
 __Moses: Open Source Toolkit for Statistical Machine Translation__. ACL 2007. __Philipp Koehn__. [[Paper](https://www.aclweb.org/anthology/P07-2045.pdf)]
 
 ## DataSet
@@ -280,6 +293,8 @@ __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wisem
 __The Code2Text Challenge: Text Generation in Source Code Libraries__. INLG 2017. __Kyle Richardson, Sina Zarrieß__. [[Paper](https://www.aclweb.org/anthology/W17-3516.pdf)]
 
 __WebNLG: The WebNLG Challenge:  Generating text from RDF data__. INLG 2017. __Claire Gardent, Anastasia Shimorina, Shashi Narayan, and Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/W17-3518.pdf)] [[Data](https://www.aclweb.org/portal/content/webnlg-challenge-first-call-participation-0)]
+
+__WebNLG: Creating Training Corpora for NLG Micro-Planning__. ACL 2017. __Claire Gardent, Anastasia Shimorina, Shashi Narayan, Laura Perez-Beltrachini__. [[Paper](https://www.aclweb.org/anthology/P17-1017.pdf)]
 
 __Analysing Data-To-Text Generation Benchmarks__. INLG 2017. __Laura Perez-Beltrachini, Claire Gardent__. [[Paper](https://www.aclweb.org/anthology/W17-3537.pdf)]
 
@@ -303,6 +318,8 @@ __A Systematic Comparison of Smoothing Techniques for Sentence-Level BLEU__. SMT
 __METEOR-NEXT: Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level__. NAACL 2010. __Michael Denkowski, Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/N10-1031.pdf)]
 
 __METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments__. ACL workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization. __Satanjeev Banerjee and Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/W07-0734.pdf)]
+
+__Comparing Automatic and Human Evaluation of NLG Systems__. EACL 2006. __Anja Belz, Ehud Reiter__. [[Paper](https://www.aclweb.org/anthology/E06-1040.pdf)]
 
 __BLEU: a Method for Automatic Evaluation of Machine Translation__. ACL 2002. __Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu__. [[Paper](https://www.aclweb.org/anthology/P02-1040.pdf)]
 
