@@ -109,6 +109,8 @@ __Empirically Estimating Order Constraints for Content Planning in Generation__.
 ## Text Generation Theory and Application 
 __Semi-Supervised Neural Text Generation by Joint Learning of Natural Language Generation and Natural Language Understanding Models__. __Raheel Qader, Franc ̧ois Portet__. [[Paper](https://arxiv.org/pdf/1910.03484.pdf)]
 
+__Generating Live Soccer-Match Commentary from Play Data__. AAAI 2019. __Yasufumi Taniguchi, Yukun Feng__. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4691)] [[Code](https://github.com/yasufumy/placeholder_reconstruction)]
+
 __Personalized Review Generation by Expanding Phrases and Attending on Aspect-Aware Representations__. ACL 2018. __Jianmo Ni, Julian McAuley__. [[Paper](https://www.aclweb.org/anthology/P18-2112.pdf)] [[Code](https://github.com/nijianmo/textExpansion)]
 
 __Generating Sentences by Editing Prototypes__. TACL 2018. __Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang__. [[Paper](https://arxiv.org/pdf/1709.08878.pdf)]
@@ -199,6 +201,8 @@ __Effective Approaches to Attention-based Neural Machine Translation__. ACL 2015
 __Neural machine translation by jointly learning to align and translate__. ICLR 2015. __Dzmitry Bahdanau__. [[Paper](https://arxiv.org/pdf/1409.0473.pdf)] 
 
 ## Text generation with Copy
+__Deep copycat Networks for Text-to-Text Generation__. EMNLP 2019. __Julia Ive, Pranava Madhyastha and Lucia Specia__. [[Paper](https://www.aclweb.org/anthology/D19-1318.pdf)] [[Code](https://github.com/ImperialNLP/CopyCat)]
+
 __Get to the point: Sum- marization with pointer-generator networks__. ACL 2017. __A. See, P. J. Liu__. [[Paper](https://www.aclweb.org/anthology/P17-1099.pdf)] [[Code](www.github.com/abisee/pointer-generator)]
 
 __Incorporating copying mechanism in sequence-to-sequence learning__. ACL 2016. __J. Gu, Z. Lu, H. Li, and V. O. Li__. [[Paper](https://www.aclweb.org/anthology/P16-1154.pdf)]
