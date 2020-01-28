@@ -13,6 +13,8 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Text Generation in Computer Vision](#text-generation-in-computer-vision)
    - [Text Generation in Dialogue](#text-generation-in-dialogue)
    - [Story Generation](#story-generation)
+   - [Sentence Rewriting](#sentence-rewriting)
+   - [Summarization](#summarization)
    - [Text Generation with Pretrain Language Model](#text-generation-with-pretrain-language-model)
    - [Text Generation with Reinforcement Learning](#text-generation-with-reinforcement-learning)
    - [Attention in Text Generations](#attention-in-text-generation)
@@ -29,6 +31,8 @@ A collection of recent progress on Natural Language Generation, including papers
    - [Conferences](#conferences)
    
 ## Neural Data-to-Text Generation
+__Neural Wikipedian: Generating Textual Summaries from Knowledge Base Triples__. __Pavlos Vougiouklisa, Hady Elsaharb__. [[Paper](https://arxiv.org/pdf/1711.00155.pdf)]
+
 __Long and Diverse Text Generation with Planning-based Hierarchical Variational Model__. EMNLP 2019. __Zhihong Shao, Minlie Huang, Jiangtao Wen__. [[Paper](https://arxiv.org/pdf/1908.06605v1.pdf)] [[Code](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)]
 
 __Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)__. EMNLP 2019. __Heng Gong, Xiaocheng Feng__. [[Paper](https://www.aclweb.org/anthology/D19-1310.pdf)] [[Code](https://github.com/ernestgong/data2text-three-dimensions)]
@@ -80,6 +84,8 @@ __Learning to generate one-sentence biographies from Wikidata__. ECACL 2017. __A
 __What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment__. NAACL 2016. __Hongyuan Mei, Mohit Bansal__. [[Paper](https://arxiv.org/pdf/1509.00838.pdf)]
 
 ## Traditional Data-to-Text Generation
+__A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG__. INLG 2019. __Guanyi Chen, Jin-Ge Yao__. [[Paper](https://www.aclweb.org/anthology/W19-8622.pdf)]
+
 __Probabilistic Verb Selection for Data-to-Text Generation__. ACL 2018. __Dell Zhang, Jiahao Yuan__. [[Paper](https://www.aclweb.org/anthology/Q18-1038.pdf)]
 
 __Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data__. EMNLP 2018. __Guanghui Qin, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, Chin-Yew Lin__. [[Paper](https://www.aclweb.org/anthology/D18-1411.pdf)] [[Code](https://github.com/hiaoxui/D2T-Grounding)]
@@ -137,10 +143,17 @@ __Retrieve and Refine: Improved Sequence Generation Models For Dialogue__. EMNLP
 
 __An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation__. EMNLP 2018. [[Paper](https://www.aclweb.org/anthology/D18-1075.pdf)] [[Code](https://github.com/lancopku/AMM)]
 
+__Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems__. EMNLP 2015. __Tsung-Hsien Wen, Milica Gasˇic ́, Nikola Mrksˇic ́__. [[Paper](https://www.aclweb.org/anthology/D15-1199.pdf)]
+
 ## Story Generation
 __Counterfactual Story Reasoning and Generation__. EMNLP 2019. __Lianhui Qin, Antoine Bosselut__. [[Paper](https://www.aclweb.org/anthology/D19-1509.pdf)] 
 
 __Hierarchical Neural Story Generation__. ACL 2018. __Angela Fan, Mike Lewis, Yann Dauphin__. [[Paper](https://arxiv.org/pdf/1805.04833.pdf)] 
+
+## Sentence Rewriting
+
+## Summarization 
+__Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization__. ACL 2018. __Ziqiang Cao, Wenjie Li, Furu Wei, Sujian Li__. [[Paper](https://www.aclweb.org/anthology/P18-1015.pdf)] [[Code](http://www4.comp.polyu.edu.hk/~cszqcao/)]
 
 ## Text Generation with Pretrain Language Model
 __Text Summarization with Pretrained Encoders__. EMNLP 2019. __Yang Liu and Mirella Lapata__. [[Paper](https://www.aclweb.org/anthology/D19-1387.pdf)] [[Code](https://github.com/nlpyang/PreSumm)]
@@ -224,6 +237,10 @@ __word2ket: Space-Efficient Word Embeddings Inspired by Quantum Entanglement__. 
 
 __Differentiable Scheduled Sampling for Credit Assignment__. ACL 2017. __Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick__. [[Paper](https://www.aclweb.org/anthology/P17-2058.pdf)]
 
+__Context Gates for Neural Machine Translation__. TACL 2017. __Zhaopeng Tu, Yang Liu, Zhengdong Lu, Xiaohua Liu, Hang Li__. [[Paper](https://www.aclweb.org/anthology/Q17-1007.pdf)]
+
+__Using the Output Embedding to Improve Language Models__. EACL 2017. __Ofir Press, Lior Wolf__. [[Paper](https://www.aclweb.org/anthology/E17-2025.pdf)]
+
 __Minimum Risk Training for Neural Machine Translation__. ACL 2016. __Shiqi Shen, Yong Cheng__. [[Paper](aclweb.org/anthology/P16-1159.pdf)]
 
 __LightRNN: Memory and Computation-Efficient Recurrent Neural Networks__. NIPS 2016. __Xiang Li, Tao Qin__. [[Paper](http://papers.nips.cc/paper/6512-lightrnn-memory-and-computation-efficient-recurrent-neural-networks.pdf)]
@@ -243,12 +260,16 @@ __Data2Text Studio: Automated Text Generation from Structrured Data__. EMNLP 201
 
 __OpenNMT: Open-Source Toolkit for Neural Machine Translation__. __Guillaume Klein, Yoon Kim__. [[Paper](https://arxiv.org/pdf/1701.02810v1.pdf)] [[Code](https://github.com/OpenNMT/OpenNMT)]
 
+__Moses: Open Source Toolkit for Statistical Machine Translation__. ACL 2007. __Philipp Koehn__. [[Paper](https://www.aclweb.org/anthology/P07-2045.pdf)]
+
 ## DataSet
 __WikiInfo2Text:Enhancing Neural Data-To-Text Generation Models with External Background Knowledge__. EMNLP, 2019. __Shuang Chen, Jinpeng Wang__. [[Paper](https://www.aclweb.org/anthology/D19-1299.pdf)] [[Data](https://github.com/hitercs/WikiInfo2Text)] 
 
 __Enriching the WebNLG corpus__. INLG 2018. __Thiago Castro Ferreira, Diego Moussallem__. [[Paper](https://www.aclweb.org/anthology/W18-6521.pdf)] [[Code](https://github.com/ThiagoCF05/webnlg)]
 
 __E2E Dataset: New Challenges For End-to-End Generation__. SIGDIAL 2017. __Jekaterina Novikova, Ondrˇej Dusˇek, Verena Rieser__. [[Paper](https://www.aclweb.org/anthology/W17-5525.pdf)] [[Data](http://www.macs.hw.ac.uk/InteractionLab/E2E/)]
+
+__Split and Rephrase__. EMNLP 2017. __Shashi Narayan, Claire Gardent, Shay B. Cohen__. [[Paper](https://www.aclweb.org/anthology/D17-1064.pdf)] [[Data](https://github.com/shashiongithub/Split-and-Rephrase)]
 
 __ROTOWIRE: Challenges in Data-to-Document Generation__. EMNLP 2017. __Sam Wiseman, Stuart M. Shieber, Alexander M. Rush__. [[Paper](https://arxiv.org/pdf/1707.08052v1.pdf)] [[Data](https://github.com/harvardnlp/boxscore-data)]
 
@@ -269,7 +290,11 @@ __BERTScore: Evaluating Text Generation with BERT__. ICLR 2020. [[Paper](https:/
 
 __CIDEr: Consensus-based Image Description Evaluation__. CVPR 2015. __R. Vedantam, C. Lawrence Zitnick, and D. Parikh__. [[Paper](https://arxiv.org/pdf/1411.5726v1.pdf)]
 
+__A Snapshot of NLG Evaluation Practices 2005 - 2014__. ENLG 2015. __Dimitra Gkatzia, Saad Mahamood__. [[Paper](https://www.aclweb.org/anthology/W15-4708.pdf)]
+
 __BEER: BEtter Evaluation as Ranking__. SMT 2014. __Milos Stanojevic, Khalil Sima’an__. [[Paper](https://www.aclweb.org/anthology/W14-3354.pdf)] ́
+
+__A Systematic Comparison of Smoothing Techniques for Sentence-Level BLEU__. SMT 2014. __Boxing Chen and Colin Cherry__. [[Paper](http://acl2014.org/acl2014/W14-33/pdf/W14-3346.pdf)]
 
 __METEOR-NEXT: Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level__. NAACL 2010. __Michael Denkowski, Alon Lavie__. [[Paper](https://www.aclweb.org/anthology/N10-1031.pdf)]
 
@@ -277,6 +302,8 @@ __METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with H
 
 __BLEU: a Method for Automatic Evaluation of Machine Translation__. ACL 2002. __Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu__. [[Paper](https://www.aclweb.org/anthology/P02-1040.pdf)]
 
+## Some Useful Link
+[[BLEU](https://github.com/moses-smt/ mosesdecoder/blob/master/scripts/generic/multi-bleu.perl)]
 
 ## Researchers
 __Mirella Lapata__. [[HomePage](http://homepages.inf.ed.ac.uk/mlap/)]
